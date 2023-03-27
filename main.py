@@ -392,3 +392,5 @@ print("""
 """)
 
 print('\u001b[0m')
+
+print('THE END')
